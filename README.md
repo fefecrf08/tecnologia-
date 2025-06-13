@@ -48,7 +48,7 @@
 </header>
 
 <section>
-    <p> Meu nome é Felipe Ormeni Ribeiro de Almeida, tenho 16 anos e sou estudante</p>
+    <p> Meu nome é Felipe Ormeni Ribeiro de Almeida, tenho 16 anos e sou estudante da escola Professor Jácomo Stavale</p>
 </section>
 
 <section>
@@ -57,7 +57,9 @@
         <li>HTML</li>
         <li>JavaScript</li>
     </ul>
-    <p>Com isso, eu aprendi desenvolver jogos e projetos</p>
+    <p>Aprendi os fundamentos do HTML, que é a linguagem usada para estruturar páginas na internet. Agora sei como criar textos, imagens, listas, links, formulários e organizar tudo com uma boa estrutura semântica, facilitando tanto o entendimento do usuário quanto a acessibilidade.
+
+Também aprendi JavaScript, que permite adicionar interatividade nas páginas. Com ele, consegui entender como usar variáveis, funções, eventos e como manipular elementos do HTML usando o DOM. Com isso, posso criar aplicações que reagem às ações dos usuários e deixam a experiência mais dinâmica.  </p>
 </section>
 
 <section>
@@ -65,7 +67,7 @@
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: </h3>
-            <p https://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p>
+            <phttps://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p>
         </div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
