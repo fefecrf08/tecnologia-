@@ -48,7 +48,7 @@
 </header>
 
 <section>
-    <p>Se apresente aqui</p>
+    <p> Meu nome é Felipe Ormeni Ribeiro de Almeida, tenho 16 anos e aou estudante</p>
 </section>
 
 <section>
@@ -65,11 +65,11 @@
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: </h3>
-            <p>Deixe o projeto aqui</p>
+            <phttps://raw.githubusercontent.com/fefecrf08/tecnologia-/refs/heads/main/README.md></p>
         </div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
-            <p>Deixe o projeto aqui.</p>
+            <p>    https://raw.githubusercontent.com/fefecrf08/tecnologia-/refs/heads/main/README.md.</p>
         </div>
     </div>
 </section>
