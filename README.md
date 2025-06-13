@@ -67,8 +67,7 @@ Também aprendi JavaScript, que permite adicionar interatividade nas páginas. C
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: </h3>
-            <phttps://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p>
-        </div>
+            <p https://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p></div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
             <p>    https://raw.githubusercontent.com/fefecrf08/tecnologia-/refs/heads/main/README.md.</p>
