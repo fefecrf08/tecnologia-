@@ -67,7 +67,9 @@ Também aprendi JavaScript, que permite adicionar interatividade nas páginas. C
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: </h3>
-            <p https://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p></div>
+            <p  Lista de Tarefas
+Um aplicativo simples onde é possível adicionar, marcar como concluídas e remover tarefas do dia a dia. Feito com HTML, CSS e JavaScript. ></p 
+                                                                                        >/div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
             <p>    https://raw.githubusercontent.com/fefecrf08/tecnologia-/refs/heads/main/README.md.</p>
