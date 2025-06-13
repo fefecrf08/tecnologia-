@@ -48,7 +48,7 @@
 </header>
 
 <section>
-    <p> Meu nome é Felipe Ormeni Ribeiro de Almeida, tenho 16 anos e aou estudante</p>
+    <p> Meu nome é Felipe Ormeni Ribeiro de Almeida, tenho 16 anos e sou estudante</p>
 </section>
 
 <section>
@@ -65,7 +65,7 @@
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: </h3>
-            <phttps://raw.githubusercontent.com/fefecrf08/tecnologia-/refs/heads/main/README.md></p>
+            <phttps://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p>
         </div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
