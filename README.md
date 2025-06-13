@@ -70,7 +70,7 @@ Também aprendi JavaScript, que permite adicionar interatividade nas páginas. C
             <p  
                 
                 
-               /div> Lista de Tarefas
+                Lista de Tarefas
 Um aplicativo simples onde é possível adicionar, marcar como concluídas e remover tarefas do dia a dia. Feito com HTML, CSS e JavaScript. ></p>/div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
