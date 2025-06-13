@@ -57,7 +57,7 @@
         <li>HTML</li>
         <li>JavaScript</li>
     </ul>
-    <p>Deixe uma breve descrição aqui</p>
+    <p>Com isso, eu aprendi desenvolver jogos e projetos</p>
 </section>
 
 <section>
@@ -65,7 +65,7 @@
     <div class="projetos">
         <div class="projeto">
             <h3>Projeto 1: </h3>
-            <phttps://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p>
+            <p https://github.com/NatanLopesGimenez/Portif-lio1/blob/main/README.md></p>
         </div>
         <div class="projeto">
             <h3>Projeto 2: </h3>
